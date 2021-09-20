@@ -3,6 +3,16 @@ A ultra-lightweight 3D renderer of the Tensorflow/Keras neural network architect
 This Library is working on Matplotlib visualization for now. In future the visualization can be moved to plotly 
 for a more interactive visual of the neural network architecture. 
 
+**Note:** *For now the rendering is working in Jupyter only Google Colab support is in works.*  
+
+For more details visit [NetPlot](https://github.com/Spratiher9/Netplot.git)
+
+### Install with Pip
+
+```python
+pip install netplot
+```
+
 ### Usage guide
 
 ```python

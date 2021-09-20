@@ -11,6 +11,7 @@ setuptools.setup(
     description="Ultralight 3D renderer of neural network architecture for TF/Keras Models",
     long_description=long_description,      # Long description read from the the readme file
     long_description_content_type="text/markdown",
+    url = "https://github.com/Spratiher9/Netplot",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
