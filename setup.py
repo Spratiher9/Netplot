@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="netplot",                     # This is the name of the package
-    version="0.0.1",                        # The initial release version
+    version="0.1.2",                        # The initial release version
     author="Souvik Pratiher",                     # Full name of the author
     description="Ultralight 3D renderer of neural network architecture for TF/Keras Models",
     long_description=long_description,      # Long description read from the the readme file
