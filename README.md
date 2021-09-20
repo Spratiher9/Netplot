@@ -33,5 +33,5 @@ model = tf.keras.models.Model(inputs=X_input, outputs=X)
 modelplot = ModelPlot(model=model, grid=True, connection=True, linewidth=0.1)
 modelplot.show()
 ```
-![alt text](screenshot demo/model_summary.png "Keras Model Summarized")
-![alt text](screenshot demo/ModelPlot 3D with grid.png "Keras Model Visualized")
+![Keras Model Summarized](https://github.com/Spratiher9/Netplot/blob/master/screenshot%20demo/model_summary.png) 
+![Keras Model Visualized](https://github.com/Spratiher9/Netplot/blob/master/screenshot%20demo/ModelPlot%203D%20with%20grid.png)
