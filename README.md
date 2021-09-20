@@ -5,7 +5,7 @@ for a more interactive visual of the neural network architecture.
 
 **Note:** *For now the rendering is working in Jupyter only Google Colab support is in works.*  
 
-For more details visit [NetPlot](https://github.com/Spratiher9/Netplot.git)
+For more details visit [NetPlot](https://pypi.org/project/netplot/0.1.2/)
 
 ### Install with Pip
 
