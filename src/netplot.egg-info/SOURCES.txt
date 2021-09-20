@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+src/netplot.py
+src/netplot.egg-info/PKG-INFO
+src/netplot.egg-info/SOURCES.txt
+src/netplot.egg-info/dependency_links.txt
+src/netplot.egg-info/requires.txt
+src/netplot.egg-info/top_level.txt

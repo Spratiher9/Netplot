@@ -170,7 +170,7 @@ class ModelPlot(object):
                             last_a, last_b, last_c = a, b, c
 
     def show(self):
-        fig = plt.figure(figsize=(20, 15))
+        fig = plt.figure(figsize=(10, 9))
         ax = fig.add_subplot(111, projection='3d')
 
         layers_len = 0
