@@ -18,7 +18,7 @@ For more details visit [NetPlot](https://pypi.org/project/netplot/0.1.2/)
 pip install netplot
 ```
 
-### Usage guide
+### Notebook Codelets
 
 ```python
 from netplot import ModelPlot
