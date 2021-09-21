@@ -8,6 +8,10 @@ for a more interactive visual of the neural network architecture.
 
 For more details visit [NetPlot](https://pypi.org/project/netplot/0.1.2/)
 
+### How to use it
+
+![NetPLOT DEMO Notebook](https://github.com/Spratiher9/Netplot/blob/1e16251651d4c947c7a33fd7bac2f7701d7d162b/NetPLOT_demo.gif)
+
 ### Install with Pip
 
 ```python
