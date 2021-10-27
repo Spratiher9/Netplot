@@ -1,5 +1,5 @@
 ![NETPLOT](https://github.com/Spratiher9/Netplot/blob/5a7b0807114bd858deeb99e17c893b749ab95b93/Netplot.png)
-## Netplot🚀
+## Netplot🚀   [![Downloads](https://static.pepy.tech/personalized-badge/netplot?period=total&units=international_system&left_color=black&right_color=orange&left_text=PYPI%20Downloads)](https://pepy.tech/project/netplot)
 A ultra-lightweight 3D renderer of the Tensorflow/Keras neural network architectures.
 This Library is working on Matplotlib visualization for now. In future the visualization can be moved to plotly 
 for a more interactive visual of the neural network architecture. 
